@@ -97,3 +97,32 @@ ul{
         border-collapse: collapse;
         margin-top: 20px;
     }
+
+.login, .streaming{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.login h2, .streaming h2{
+    text-align: center;
+}
+
+.login input{
+    width: 100px;
+    padding: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.streaming a{
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+    color: white;
+    text-decoration: underline;
+    background-color: #222;
+}
+
